@@ -51,8 +51,13 @@ body{
   
   .nav-link {
   text-decoration: none; 
-  color: black; 
-  padding: 0;
+  color: rgb(205, 205, 205);
+font-family: Arial;
+font-size: 15px;
+font-weight: 400;
+line-height: 160%;
+letter-spacing: 0px;
+text-align: left;
   
   }
   
